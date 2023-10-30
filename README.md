@@ -22,8 +22,8 @@ Comme serveur d'applications pour exécuter l'application.
 #### *Java 8 
 Comme langage de programmation principal pour le développement de l'application.
 ## Exigences du système
-Java 8 ou supérieur.
-Serveur GlassFish installé localement.
+Java 8 ou supérieur.<br />
+Serveur GlassFish installé localement.<br />
 Un navigateur Web moderne.
 ## Voilla Le video Demenstrave
 https://github.com/ismail-sorhrani/TP-AJAX2/assets/125312216/6d885108-8cd2-46e4-8d93-e459f95d2b46
