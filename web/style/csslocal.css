@@ -1,0 +1,41 @@
+fieldset  {
+    width: 50%;
+    margin: auto;
+
+}
+
+.tab{
+    border-collapse: collapse;
+    margin: 0 auto; 
+      font-family: Arial;
+      
+}
+
+
+
+.bnupdate {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-family: Arial;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+
+.bndelete {
+    background-color: coral; /* Green */
+    border: none;
+    color: white;
+    font-family: Arial;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+
